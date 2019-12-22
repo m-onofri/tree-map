@@ -1,0 +1,21 @@
+#title,
+#description {
+  text-align: center;
+}
+
+svg .tile:hover {
+  fill: #fff;
+}
+
+.tile-text {
+  font-size: 0.7rem;
+  font-weight: bold;
+  fill: #000;
+}
+
+#tooltip {
+  font-size: 0.8rem;
+  color: #fff;
+  background-color: gray;
+  padding:0.5rem;
+}
